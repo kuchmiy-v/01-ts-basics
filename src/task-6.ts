@@ -1,4 +1,5 @@
 function getFirstElement<T>(arr: T[]): T {
+  console.log(arr[0]);
   return arr[0];
 }
 
